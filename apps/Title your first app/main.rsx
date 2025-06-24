@@ -10,6 +10,11 @@
   >
     <Button id="button1" text="Test" />
     <Button id="button2" text="Button" />
+    <Text
+      id="text1"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
     <Button id="button3" text="Button" />
     <Container
       id="tabbedContainer1"

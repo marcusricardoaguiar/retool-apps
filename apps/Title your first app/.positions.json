@@ -36,5 +36,10 @@
     "rowGroup": "header",
     "height": 0.6,
     "width": 12
+  },
+  "text1": {
+    "row": 5.6,
+    "col": 5,
+    "height": 1
   }
 }
