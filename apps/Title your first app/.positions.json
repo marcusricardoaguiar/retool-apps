@@ -31,6 +31,12 @@
       }
     }
   },
+  "table1": {
+    "row": 6.8,
+    "col": 4,
+    "height": 8,
+    "width": 8
+  },
   "tabs1": {
     "container": "tabbedContainer1",
     "rowGroup": "header",
