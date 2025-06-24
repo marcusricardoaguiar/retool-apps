@@ -11,13 +11,6 @@
     <Button id="button1" text="Test" />
     <Button id="button4" text="Button" />
     <Button id="button3" text="Button" />
-    <Image
-      id="image1"
-      heightType="fixed"
-      horizontalAlign="center"
-      src="https://picsum.photos/id/1025/800/600"
-    />
-    <Button id="button2" text="Button" />
     <Container
       id="tabbedContainer1"
       currentViewKey="{{ self.viewKeys[0] }}"
