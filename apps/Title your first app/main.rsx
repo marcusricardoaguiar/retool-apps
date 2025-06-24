@@ -10,6 +10,7 @@
   >
     <Button id="button1" text="Test" />
     <Button id="button2" text="Button" />
+    <Button id="button3" text="Button" />
     <Container
       id="tabbedContainer1"
       currentViewKey="{{ self.viewKeys[0] }}"
