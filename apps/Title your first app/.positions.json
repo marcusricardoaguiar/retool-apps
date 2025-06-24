@@ -6,7 +6,7 @@
     "width": 2
   },
   "button2": {
-    "row": 10,
+    "row": 11.8,
     "col": 3,
     "height": 1,
     "width": 2
@@ -22,5 +22,29 @@
     "col": 5,
     "height": 1,
     "width": 2
+  },
+  "image1": {
+    "row": 6.8,
+    "col": 1
+  },
+  "tabbedContainer1": {
+    "row": 13.8,
+    "col": 1,
+    "height": 0.2,
+    "width": 6,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "tabs1": {
+    "container": "tabbedContainer1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
   }
 }
