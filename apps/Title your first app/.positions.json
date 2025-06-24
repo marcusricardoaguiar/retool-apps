@@ -11,6 +11,12 @@
     "height": 1,
     "width": 2
   },
+  "button3": {
+    "row": 7.6,
+    "col": 1,
+    "height": 1,
+    "width": 2
+  },
   "tabbedContainer1": {
     "row": 16,
     "col": 1,
