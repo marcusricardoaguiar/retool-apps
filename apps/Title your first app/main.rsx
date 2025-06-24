@@ -9,5 +9,8 @@
     type="main"
   >
     <Button id="button1" text="Test" />
+    <Button id="button4" text="Button" />
+    <Button id="button3" text="Button" />
+    <Button id="button2" text="Button" />
   </Frame>
 </App>
