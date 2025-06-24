@@ -9,13 +9,6 @@
     type="main"
   >
     <Button id="button1" text="Test" />
-    <Button id="button4" text="Button" />
-    <JSONEditor
-      id="jsonEditor1"
-      value={
-        '{\n  "a": {\n    "b": [1,2,3,4,5,6,7,8,9],\n    "c": {\n      "d": false\n    },\n    "e": "hi"\n  }\n}'
-      }
-    />
     <Container
       id="tabbedContainer1"
       currentViewKey="{{ self.viewKeys[0] }}"
