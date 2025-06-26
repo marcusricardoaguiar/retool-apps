@@ -1,16 +1,4 @@
 {
-  "button1": {
-    "row": 2.8,
-    "col": 1,
-    "height": 1,
-    "width": 2
-  },
-  "button2": {
-    "row": 3.6,
-    "col": 5,
-    "height": 1,
-    "width": 2
-  },
   "button3": {
     "row": 15.2,
     "col": 1,
@@ -65,12 +53,6 @@
   "table1": {
     "row": 14.2,
     "col": 4,
-    "height": 8,
-    "width": 8
-  },
-  "table2": {
-    "row": 6.2,
-    "col": 1,
     "height": 8,
     "width": 8
   },
