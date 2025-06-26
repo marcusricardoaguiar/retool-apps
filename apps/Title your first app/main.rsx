@@ -16,6 +16,7 @@
       value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
       verticalAlign="center"
     />
+    <Button id="button7" text="Button" />
     <Table
       id="table2"
       cellSelection="none"
@@ -167,6 +168,32 @@
         />
       </ToolbarButton>
     </Table>
+    <Container
+      id="tabbedContainer2"
+      currentViewKey="{{ self.viewKeys[0] }}"
+      footerPadding="4px 12px"
+      headerPadding="4px 12px"
+      padding="12px"
+      showBody={true}
+      showHeader={true}
+    >
+      <Header>
+        <Tabs
+          id="tabs2"
+          itemMode="static"
+          navigateContainer={true}
+          targetContainerId="tabbedContainer2"
+          value="{{ self.values[0] }}"
+        >
+          <Option id="5cd3f" value="Tab 1" />
+          <Option id="b3482" value="Tab 2" />
+          <Option id="12ee1" value="Tab 3" />
+        </Tabs>
+      </Header>
+      <View id="ebfa9" viewKey="View 1" />
+      <View id="f15dc" viewKey="View 2" />
+      <View id="12dd2" viewKey="View 3" />
+    </Container>
     <Button id="button4" text="Button" />
     <Table
       id="table1"
