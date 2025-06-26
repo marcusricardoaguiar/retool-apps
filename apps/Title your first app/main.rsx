@@ -9,7 +9,6 @@
     type="main"
   >
     <Button id="button5" text="Button" />
-    <Button id="button6" text="Button" />
     <Button id="button1" text="Test" />
     <Button id="button2" text="Button" />
     <Text
