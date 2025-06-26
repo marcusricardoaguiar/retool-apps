@@ -8,6 +8,7 @@
     sticky={null}
     type="main"
   >
+    <Button id="button8" text="Button" />
     <Button id="button7" text="Button" />
     <Container
       id="tabbedContainer2"
