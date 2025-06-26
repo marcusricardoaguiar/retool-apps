@@ -8,12 +8,6 @@
     sticky={null}
     type="main"
   >
-    <Button id="button5" text="Button" />
-    <Text
-      id="text1"
-      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
-      verticalAlign="center"
-    />
     <Button id="button7" text="Button" />
     <Container
       id="tabbedContainer2"
