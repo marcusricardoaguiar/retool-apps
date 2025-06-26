@@ -17,6 +17,18 @@
     "height": 1,
     "width": 2
   },
+  "button4": {
+    "row": 6.4,
+    "col": 1,
+    "height": 1,
+    "width": 2
+  },
+  "button5": {
+    "row": 2.6,
+    "col": 4,
+    "height": 1,
+    "width": 2
+  },
   "tabbedContainer1": {
     "row": 16,
     "col": 1,
@@ -34,6 +46,12 @@
   "table1": {
     "row": 6.8,
     "col": 4,
+    "height": 8,
+    "width": 8
+  },
+  "table2": {
+    "row": 6.2,
+    "col": 1,
     "height": 8,
     "width": 8
   },
