@@ -11,12 +11,6 @@
     "height": 1,
     "width": 2
   },
-  "button5": {
-    "row": 2.6,
-    "col": 4,
-    "height": 1,
-    "width": 2
-  },
   "button7": {
     "row": 6,
     "col": 9,
@@ -67,10 +61,5 @@
     "rowGroup": "header",
     "height": 0.6,
     "width": 12
-  },
-  "text1": {
-    "row": 5.6,
-    "col": 5,
-    "height": 1
   }
 }
